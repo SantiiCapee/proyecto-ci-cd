@@ -7,3 +7,5 @@ Incluye `math.js`, `math.test.js`, y los workflows en `.github/workflows/`.
 ### 2. Pipeline de CD mostrando git pull exitoso
 
 ### 3. Proyecto en el servidor con último commit aplicado
+
+Este es un cambio para el Staging
